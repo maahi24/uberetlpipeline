@@ -11,25 +11,25 @@ The Uber Data Analytics project focuses on leveraging various tools and technolo
 
 The architecture of the project involves several components:
 
-#### Programming Language: 
+#### Programming Language:
 Python is used for data processing and analysis.
 
-#### Google Cloud Platform: 
+#### Google Cloud Platform:
 GCP provides the infrastructure and services for the project.
 
-#### Google Storage: 
+#### Google Storage:
 Used for storing the Uber data.
 
-#### Compute Instance: 
+#### Compute Instance:
 Provides the compute resources for running the data analytics tasks.
 
-#### BigQuery: 
+#### BigQuery:
 Enables querying and analyzing the Uber data using SQL.
 
-#### Looker Studio: 
+#### Looker Studio:
 A data visualization and exploration platform for generating insights from the data.
 
-#### Modern Data Pipeline Tool: 
+#### Modern Data Pipeline Tool:
 The project utilizes Mage Data, an open-source tool, for efficient and streamlined data pipeline operations.
 
 
